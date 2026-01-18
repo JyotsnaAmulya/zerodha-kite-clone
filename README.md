@@ -44,3 +44,9 @@ zerodha-clone/
 ├── dashboard/
 ├── .gitignore
 ├── README.md
+
+## Credits
+
+This project was initially inspired by learning resources from Apna College and was
+modified, and completed independently with additional features and fixes.
+
